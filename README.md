@@ -1,6 +1,6 @@
 # Проект III. <Название вашего проекта>
 
-**Карта онлайн:** https://github.com/parf19998942-sketch/-3/blob/main/index.html
+**Карта онлайн:** [https://github.com/parf19998942-sketch/-3/blob/main/index.html](https://parf19998942-sketch.github.io/-3/)
 
 ## О проекте
 Данная карта была выполнена в рамках курса по Python
